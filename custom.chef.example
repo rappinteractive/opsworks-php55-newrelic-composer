@@ -8,5 +8,9 @@
         "application_monitoring": {
         	"appname": "My App1"
         }
+    },
+    "remote_syslog": {
+        "port": "12345",
+        "host": "logs.papertrailapp.com"
     }
 } 
