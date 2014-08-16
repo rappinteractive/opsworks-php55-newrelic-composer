@@ -1,0 +1,6 @@
+name 				"mosh"
+maintainer 			"Peter Olds"
+maintainer_email 	"polds@kyanicorp.com"
+license				"MIT"
+description			"Installs the MOSH (Mobile Shell) application to the server"
+version 			"1.0.0"
