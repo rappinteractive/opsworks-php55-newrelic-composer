@@ -1,0 +1,6 @@
+name 				"mcrypt"
+maintainer 			"Peter Olds"
+maintainer_email 	"polds@kyanicorp.com"
+license				"MIT"
+description			"Enables the php5-mcrypt"
+recipe				"mcrypt::enable"
