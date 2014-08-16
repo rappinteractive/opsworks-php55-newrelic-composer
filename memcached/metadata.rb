@@ -1,0 +1,6 @@
+name 				"memcached"
+maintainer 			"Peter Olds"
+maintainer_email 	"polds@kyanicorp.com"
+license				"MIT"
+description			"Enables the php5-memcached module"
+version 			"1.0.0"
